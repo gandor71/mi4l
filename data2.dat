@@ -1,28 +1,43 @@
-<System Settings Notes:
-Recomended to have 16GB+ RAM. UMA's take a serious amount of RAM to run without issues.
-If you encounter prolonged FPS issues or shimmering entities it is likely due to running out of RAM.
-Reduce UMA textures to Medium unless you have over 16GB, and turn off SSAO.>
-<Starvation for Alpha 16
+<SDX Team
+Not EAC friendly
+
+
+
 The idea is to make a mod that tries to make things harder, more interesting, but also highly rewarding later in the game. Again, coding have been made by me, and most graphics where made by Pacco.>
-<Not EAC friendly
-Has Bigger Backpack Mod
-
-The Expansion pack is meant to be viewed, as the name implies, as an expansion pack for the game. What this means is that it adds a bunch of new features to the game without dramatically changing the overall vanilla gameplay experience. Great if you're happy with 7DTD but just want to have more stuff to do.>
-<Not EAC friendly
-Has Bigger Backpack Mod
-
-The Overhaul pack adds the same items and content to the game as the expansion with the key difference being that unlike the expansion the overhaul, as the name implies overhauls some basic aspects of the game. Mainly the recipe system is considerably locked down compared to vanilla. The overhaul is intended for those who want a new experience from the game.>
-<Not EAC friendly
-Has Bigger Backpack Mod
-
-Note: if error dllnotfoundexception: gdiplus.dll 
-You need to install libgdiplus>
-<Not EAC friendly
+<Tin'sMod
+Not EAC friendly
 Has Bigger Backpack Mod
 
 It's was a 150 years since the Zombies first appeared. At 50 yrs in, People were finally starting to band together to counter the threat. 50yrs later humanity was finally starting to make a comeback..or so we thought!
 It was about that time strange occurrences began happening, A new threat was emerging and coming out of the shadows! No one really knows why or how the Ghouls appeared! Ghouls.. heh Just another word for Monster but that's what we call them. So now, a 150 years since this madness began, humanity is once again struggling just to survive...>
-<Not EAC friendly
+<Valmar's Mod
+Not EAC friendly
+Has Bigger Backpack Mod
+
+The Expansion pack is meant to be viewed, as the name implies, as an expansion pack for the game. What this means is that it adds a bunch of new features to the game without dramatically changing the overall vanilla gameplay experience. Great if you're happy with 7DTD but just want to have more stuff to do.>
+<Valmar's Mod
+Not EAC friendly
+Has Bigger Backpack Mod
+
+The Overhaul pack adds the same items and content to the game as the expansion with the key difference being that unlike the expansion the overhaul, as the name implies overhauls some basic aspects of the game. Mainly the recipe system is considerably locked down compared to vanilla. The overhaul is intended for those who want a new experience from the game.>
+<StompyNZ's Mod
+
+System Settings Notes:
+Recomended to have 16GB+ RAM. UMA's take a serious amount of RAM to run without issues.
+If you encounter prolonged FPS issues or shimmering entities it is likely due to running out of RAM.
+Reduce UMA textures to Medium unless you have over 16GB, and turn off SSAO.>
+<Dwallorde's Mod
+Not EAC friendly
+Has Bigger Backpack Mod
+
+Note: if error dllnotfoundexception: gdiplus.dll 
+You need to install libgdiplus>
+<KhaineGB's Mod
+EAC friendly
+No Bigger Backpack Mod
+No 45 slot minibike and dropped backpack increase>
+<KhaineGB's Mod
+Not EAC friendly
 Has Bigger Backpack Mod
 Also includes 45 slot minibike and dropped backpack increase
 >
