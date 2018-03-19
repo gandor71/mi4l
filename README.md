@@ -1,1 +1,2 @@
-/home/shannon/.mi4l/data/README.md
+# mi4l
+Mod installer 4 Linux data files only
