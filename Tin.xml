@@ -24,12 +24,7 @@ This is just (imo) enhancing whats already in the game itself. You won't find co
      <Version>Latest</Version>
          <ReleaseNotes>https://7daystodie.com/forums/showthread.php?79029-Tin-sMod-The-Dying-Lands</ReleaseNotes>
          <Downloads>
-            <Download>https://github.com/gandor71/The-Dying-Lands/archive/master.zip</Download>
-			                                  
-			<Download>https://raw.githubusercontent.com/DUST2DEATH/Guppys-Wasteland-UI/master/_OFFLINE_/Data/Config/xui.xml</Download>
-			<Download>https://raw.githubusercontent.com/DUST2DEATH/Guppys-Wasteland-UI/master/_OFFLINE_/Data/Config/XUi/controls.xml</Download>
-			<Download>https://raw.githubusercontent.com/DUST2DEATH/Guppys-Wasteland-UI/master/_OFFLINE_/Data/Config/XUi/styles.xml</Download>
-			<Download>https://raw.githubusercontent.com/DUST2DEATH/Guppys-Wasteland-UI/master/_OFFLINE_/Data/Config/XUi/windows.xml</Download>
+            <Download>https://github.com/gandor71/Wasteland-UI-Offline/archive/master.zip</Download> 
          </Downloads>
       </Server>
 	      <Server Name="The Dying Lands Bigger Back Pack" Logo="">
