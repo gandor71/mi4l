@@ -1,0 +1,52 @@
+* Mon Apr 09 2018 v0.0.28a
+- Some UI Tweeks
+- Added more output during mod install
+
+* Mon Apr 09 2018 v0.0.27a
+- UI improvements
+- First xml compliant release
+- Fix display discription text area
+- started work on xml editor
+
+* Tue Mar 20 2018 v0.0.26a
+- Added gambas3-gb-form-stock Dependency to package
+
+- Sun Mar 18 2018 v0.0.25a
+- Fixed a bug where mod discription was disappearing
+- Exmace Added New icon
+
+* Sat Mar 17 2018 v0.0.24a
+- Exmace Added New Graphics
+- Some UI Tweeks
+- First Public Alpha Release
+
+* Fri Mar 16 2018 v0.0.23a
+- Renamed some Data Files
+- Added ttf-ms-fonts as dependency
+- Ui Fixes
+- Added update data on load
+- Added background process to handle mod downloads and install
+
+* Mon Mar 12 2018 v0.0.22a
+- Changed favorites to installed mods
+- Fixed an issue where mod was being coppied to base directory instead of mod directory
+- More Ui Fixes
+
+* Mon Mar 12 2018 v0.0.21a
+- Fix Bug Creating tmp dir
+
+* Sun Mar 11 2018 v0.0.20a
+- Added Favorites
+- Added Uninstall Mod
+- Ui Fixes
+- Added Search
+
+* Fri Mar 09 2018 v0.0.19a
+- Added The Menu
+
+* Fri Mar 09 2018 v0.0.18a
+- Ui improvements
+- Bug Fixes
+
+* Thu Mar 08 2018 v0.0.17a
+- Initial release
