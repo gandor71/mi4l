@@ -1,3 +1,6 @@
+* Know issues
+- Can not read xml files with commented lines (Bug in Gambas 3.10)
+
 * Mon Apr 09 2018 v0.0.28a
 - Some UI Tweeks
 - Added more output during mod install
