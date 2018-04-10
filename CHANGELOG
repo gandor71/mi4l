@@ -1,3 +1,6 @@
+* Tue Apr 10 2018 shannon v0.0.29a
+- Fixed a bug where some mods weren't being installed correcty
+
 * Know issues v0.0.28a
 - Can't read xml files with comments (Bug in Gambas 3.10)
 -- Temporary work around. Removed comments in xml files
