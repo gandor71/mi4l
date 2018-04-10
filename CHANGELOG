@@ -1,5 +1,6 @@
-* Know issues
+* Know issues v0.0.28a
 - Can't read xml files with comments (Bug in Gambas 3.10)
+-- Temporary work around. Removed comments in xml files
 
 * Mon Apr 09 2018 v0.0.28a
 - Some UI Tweeks
