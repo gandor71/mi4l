@@ -1,3 +1,14 @@
+* Sun Apr 14 2018 
+- Notes for Next release
+-- New Dependency added
+--- Git
+- Also will be adding a check box (Show Game Launcher)
+-- This will allow you to launch directly into the game 
+-- or open the 7dtd games launcher to edit settings
+- Adding support to launch and connect directly to an online server
+-- This only works if the mod author is using this feature.
+- Also new releases will be announced here as well as Discord
+
 * Tue Apr 10 2018 v0.0.29a
 - Fixed a bug where some mods weren't being installed correcty
 
