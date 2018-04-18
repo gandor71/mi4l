@@ -1,3 +1,7 @@
+* Wed Apr 18 2018 build v0.0.34a
+- Added a dialog for steamcmd update needed
+- Fixed a bug where mi4l seemed to lockup if alpha install failed
+
 * Tue Apr 17 2018 build v0.0.33a
 -Git added as new dependency
 -Adding a check box (Show Game Launcher)
