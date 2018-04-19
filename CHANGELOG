@@ -1,3 +1,8 @@
+* Thur Apr 19 2018 build v0.0.36a
+- Fix a bug where steamcmd wasn't being 
+  executed on some systems... I hope
+- added dependency gambas3-gb-xml
+
 * Wed Apr 18 2018 build v0.0.34a
 - Added a dialog for steamcmd update needed
 - Fixed a bug where mi4l seemed to lockup if alpha install failed
