@@ -1,3 +1,7 @@
+* Fri Apr 20 2018 build v0.0.37a
+- Added a dialog box allowing users to save 
+  alphas to cache or not
+
 * Thur Apr 19 2018 build v0.0.36a
 - Fix a bug where steamcmd wasn't being 
   executed on some systems... I hope
