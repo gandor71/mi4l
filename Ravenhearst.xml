@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
 	<ServerGroup Name="Ravenhearst" Logo="" Description="">
-		<Server Name="Ravenhearst 3.0 7Day" Logo="">
+		<Server Name="Ravenhearst 3.1 7Day" Logo="">
 			<Description>JaxTeller718's Ravenhearst 3.0 Mod
 7Day Normal
 
@@ -11,11 +11,11 @@ BlueFang Server Edition 7 Day Hordes</Description>
 			<DownloadMode>Clone</DownloadMode>
 			<Version>Latest</Version>
 			<Downloads>
-				<Download>https://github.com/Ravenhearst30/BF7DayNormal/archive/master.zip</Download>
+				<Download>https://github.com/JaxTeller718/Ravenhearst_3_1_7DayEdition/archive/master.zip</Download>
 			</Downloads>
 		</Server>
 		
-		<Server Name="Ravenhearst 3.0 21Day" Logo="">
+		<Server Name="Ravenhearst 3.1 21Day" Logo="">
 			<Description>JaxTeller718's Ravenhearst 3.0 Mod
 21 Day Normal
 BlueFang Server Edition 21 Day Hordes</Description>
@@ -24,7 +24,7 @@ BlueFang Server Edition 21 Day Hordes</Description>
 			<DownloadMode>Clone</DownloadMode>
 			<Version>Latest</Version>
 			<Downloads>
-				<Download>https://github.com/Ravenhearst30/BF21DayNormal/archive/master.zip</Download>
+				<Download>https://github.com/JaxTeller718/Ravenhearst_3_1_21DayEdition/archive/master.zip</Download>
 			</Downloads>
 		</Server>
 	</ServerGroup>
