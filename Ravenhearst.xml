@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
 	<ServerGroup Name="Ravenhearst" Logo="" Description="">
-		<Server Name="Ravenhearst 3.1 7Day" Logo="">
-			<Description>JaxTeller718's Ravenhearst 3.0 Mod
+		<Server Name="Ravenhearst 3.1.3 7Day" Logo="">
+			<Description>JaxTeller718's Ravenhearst 3.1.3 Mod
 7Day Normal
 
 BlueFang Server Edition 7 Day Hordes</Description>
@@ -15,8 +15,8 @@ BlueFang Server Edition 7 Day Hordes</Description>
 			</Downloads>
 		</Server>
 		
-		<Server Name="Ravenhearst 3.1 21Day" Logo="">
-			<Description>JaxTeller718's Ravenhearst 3.0 Mod
+		<Server Name="Ravenhearst 3.1.3 21Day" Logo="">
+			<Description>JaxTeller718's Ravenhearst 3.1.3 Mod
 21 Day Normal
 BlueFang Server Edition 21 Day Hordes</Description>
 			
