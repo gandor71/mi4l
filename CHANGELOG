@@ -2,6 +2,7 @@
 - Added log.txt file creation
 - Added time stamp to logs
 - Fixed some output to logs
+- Added more error correction
 - Added a Progressbar
 
 
