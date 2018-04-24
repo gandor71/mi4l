@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Undead Legacy" Logo="" Description="">
+		<Server Name="Undead Legacy Standard 1.3.0.3" Logo="">
+			<Description>
+                            EAC Safe
+
+			</Description>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?52085-Undead-Legacy-More-loot-gear-recipes-custom-ui-rebalancing</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/gandor71/UndeadLegacy32/archive/master.zip</Download>
+			</Downloads>
+		</Server>
+
+		<Server Name="Undead Legacy BBP 1.3.0.3" Logo="">
+			<Description>
+                             Non-EAC - Xtrackickin's zombie retexturing
+
+			</Description>
+			<Version>Latest</Version>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?52085-Undead-Legacy-More-loot-gear-recipes-custom-ui-rebalancing</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/gandor71/UndeadLegacy80/archive/master.zip</Download>
+				<Download>https://github.com/SphereII/7D2DPatches/raw/master/Alpha16.4/ZombieTextures/ZombieTextureOverhaul.zip</Download>
+			</Downloads>
+		</Server>
+	</ServerGroup>
+</Servers>
