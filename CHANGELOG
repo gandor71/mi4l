@@ -9,8 +9,8 @@
  - There are pluses and minuses to this approch.
 (+) Mods are easily updated when git detects 
     an update to the mod's repo.
-(-) We will have to maintain a cloned repo
-    for each mod that will use extra disk space.
+(-) We will have to maintain a cloned repo for each 
+    mod that will use a little extra disk space.
 (+) Fewer downloads. Many mods use the same mods
     in there configuration ie the Bigger Back Pack.
     So if we maintain a repo for these mods we won't
