@@ -1,3 +1,32 @@
+* Mon Apr 23 2018 
+ - Currently there is nothing inplace to
+   autoupdate mods. The modders don't provide 
+   a version file I can check to see if an 
+   update is needed. My solution is to clone 
+   the mod with git instead of just 
+   downloading the mod with wget.
+
+ - There are pluses and minuses to this approch.
+(+) Mods are easily updated when git detects 
+    an update to the mod's repo.
+(-) We will have to maintain a cloned repo
+    for each mod that will use extra disk space.
+(+) Fewer downloads. Many mods use the same mods
+    in there configuration ie the Bigger Back Pack.
+    So if we maintain a repo for these mods we won't
+    have to download them all the time.
+(+/-) Only mods that use git can be used.
+    This is a + and - because not all modders use git
+    so I have to maintain a separate repo for the mods
+    that don't. I don't have time to keep my eye on
+    every mod as it's updated. 
+
+- Also this isn't something that can happen over night
+  it's gonna take some time for me to get coded in.
+  Luckly I already have some of the code in place.
+  We already clone the mi4l data repo.      
+
+
 * Mon Apr 23 2018 build v0.0.38a
 - Added log.txt file creation
 - Added time stamp to logs
