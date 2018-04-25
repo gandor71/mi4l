@@ -1,3 +1,7 @@
+* Tue Apr 24 2018 Gandor build v0.0.39a
+- Checks if Steam is running before launching a mod
+- Closes  7dtd hung processes before launching a mod
+
 * Mon Apr 23 2018 
  - Currently there is nothing inplace to
    autoupdate mods. The modders don't provide 
