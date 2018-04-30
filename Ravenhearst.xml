@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
 	<ServerGroup Name="Ravenhearst" Logo="" Description="">
-		<Server Name="Ravenhearst 3.1.3 7Day" Logo="">
-			<Description>JaxTeller718's Ravenhearst 3.1.3 Mod
+		<Server Name="Ravenhearst 3.1.x 7Day" Logo="">
+			<Description>JaxTeller718's Ravenhearst 3.1.x Mod
 7Day Normal
 BlueFang Server Edition 7 Day Hordes
 
@@ -19,8 +19,8 @@ Keep in Mind this is a mod that is very much a work in progress. There will be f
 			</Downloads>
 		</Server>
 		
-		<Server Name="Ravenhearst 3.1.3 21Day" Logo="">
-			<Description>JaxTeller718's Ravenhearst 3.1.3 Mod
+		<Server Name="Ravenhearst 3.1.x 21Day" Logo="">
+			<Description>JaxTeller718's Ravenhearst 3.1.x Mod
 21 Day Normal
 BlueFang Server Edition 21 Day Hordes
 
