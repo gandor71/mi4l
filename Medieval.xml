@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Bad Company" Logo="" Description="">
+			  <Server Name="Medieval" Logo="">
+         <Description>Testing Mod</Description>
+         <RSS></RSS>
+         <ReleaseNotes></ReleaseNotes>
+         <Downloads>
+            <Download>https://gitlab.com/Medieval/Core/-/archive/master/Core-master.zip</Download>
+         </Downloads>
+      </Server>	  		  
+	</ServerGroup>
+</Servers>
