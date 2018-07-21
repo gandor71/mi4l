@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-	<ServerGroup Name="Bad Company" Logo="" Description="">
+	<ServerGroup Name="Medieval" Logo="" Description="">
 			  <Server Name="Medieval" Logo="">
          <Description>Testing Mod</Description>
          <RSS></RSS>
