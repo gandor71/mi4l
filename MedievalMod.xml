@@ -2,7 +2,7 @@
 <Servers>
 	<ServerGroup Name="Medieval" Logo="" Description="">
 			  <Server Name="Medieval" Logo="">
-         <Description>Testing Mod</Description>
+         <Description>Broken NOT working until I can figure out how to get the textures. I welcome any suggestions</Description>
          <RSS></RSS>
          <ReleaseNotes></ReleaseNotes>
          <Downloads>
