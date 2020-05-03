@@ -4,21 +4,19 @@
         	<Server Name="Alpha 18.4" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
 Installs a vanilla version of the Fun Pimp's 7 Days to Die for Alpha 18.4
-				
-				
 Downloading using the Advanced Mode, and Select Install From Steam.	  
 			</Description>
 			<RSS/>
-			<Version>alpha18.3</Version>
+			<Version>alpha18.4</Version>
 			<ReleaseNotes/>
 			<Downloads>
 			</Downloads>
-		</Server>					
+		</Server>
+		
+		
 			<Server Name="Alpha 18.3" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
 Installs a vanilla version of the Fun Pimp's 7 Days to Die for Alpha 18.3				
-				
-				
 Downloading using the Advanced Mode, and Select Install From Steam.	  
 			</Description>
 			<RSS/>
@@ -26,12 +24,12 @@ Downloading using the Advanced Mode, and Select Install From Steam.
 			<ReleaseNotes/>
 			<Downloads>
 			</Downloads>
-		</Server>					
+		</Server>	
+		
+		
 			<Server Name="Alpha 18.2" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
 Installs a vanilla version of the Fun Pimp's 7 Days to Die for Alpha 18.2				
-				
-				
 Downloading using the Advanced Mode, and Select Install From Steam.	  
 			</Description>
 			<RSS/>
@@ -39,13 +37,12 @@ Downloading using the Advanced Mode, and Select Install From Steam.
 			<ReleaseNotes/>
 			<Downloads>
 			</Downloads>
-		</Server>					
+		</Server>
+		
+		
 			<Server Name="Alpha 18.1" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
 Installs a vanilla version of the Fun Pimp's 7 Days to Die for Alpha 18.1				
-				
-				
-				
 Downloading using the Advanced Mode, and Select Install From Steam.	  
 			</Description>
 			<RSS/>
@@ -53,12 +50,12 @@ Downloading using the Advanced Mode, and Select Install From Steam.
 			<ReleaseNotes/>
 			<Downloads>
 			</Downloads>
-		</Server>					
+		</Server>
+		
+		
 			<Server Name="Alpha 18.0" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
 Installs a vanilla version of the Fun Pimp's 7 Days to Die for Alpha 18.0
-			
-				
 Downloading using the Advanced Mode, and Select Install From Steam.	  
 			</Description>
 			<RSS/>
@@ -66,12 +63,12 @@ Downloading using the Advanced Mode, and Select Install From Steam.
 			<ReleaseNotes/>
 			<Downloads>
 			</Downloads>
-		</Server>					
+		</Server>
+		
+		
 			<Server Name="Alpha 17.4" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
 Installs a vanilla version of the Fun Pimp's 7 Days to Die for Alpha 17.4
-				
-				
 Downloading using the Advanced Mode, and Select Install From Steam.	  
 			</Description>
 			<RSS/>
@@ -79,11 +76,14 @@ Downloading using the Advanced Mode, and Select Install From Steam.
 			<ReleaseNotes/>
 			<Downloads>
 			</Downloads>
-		</Server>				
+		</Server>
+		
+		
+		
+		
 		<Server Name="Alpha 16.4" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
 Installs a vanilla version of the Fun Pimp's 7 Days to Die for Alpha 16.4
-
 Downloading using the Advanced Mode, and Select Install From Steam.	  
 			</Description>
 			<RSS/>
@@ -91,11 +91,14 @@ Downloading using the Advanced Mode, and Select Install From Steam.
 			<ReleaseNotes/>
 			<Downloads>
 			</Downloads>
-		</Server>						
+		</Server>
+		
+		
+		
+		
 		<Server Name="Alpha 15.2" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
 Installs a vanilla version of the Fun Pimp's 7 Days to Die for Alpha 15.2
-
 Downloading using the Advanced Mode, and Select Install From Steam.	  
 			</Description>
 			<RSS/>
@@ -103,11 +106,16 @@ Downloading using the Advanced Mode, and Select Install From Steam.
 			<ReleaseNotes/>
 			<Downloads>
 			</Downloads>
-		</Server>				
+		</Server>
+		
+		
+		
+		
+		
+		
 		<Server Name="Alpha 14.7" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
 Installs a vanilla version of the Fun Pimp's 7 Days to Die for Alpha 14.7
-
 Downloading using the Advanced Mode, and Select Install From Steam.	  
 			</Description>
 			<RSS/>
@@ -117,10 +125,14 @@ Downloading using the Advanced Mode, and Select Install From Steam.
 			</Downloads>
 		</Server>
 
+		
+		
+		
+		
+		
 		<Server Name="Alpha 13.8" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
 Installs a vanilla version of the Fun Pimp's 7 Days to Die for Alpha 13.8
-
 Downloading using the Advanced Mode, and Select Install From Steam.	  
 			</Description>
 			<RSS/>
@@ -129,7 +141,11 @@ Downloading using the Advanced Mode, and Select Install From Steam.
 			<Downloads>
 			</Downloads>
 		</Server>		
-
+		
+		
+		
+		
+		
 		<Server Name="Alpha 12.5" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
 Installs a vanilla version of the Fun Pimp's 7 Days to Die for Alpha 12.5
@@ -141,12 +157,15 @@ Downloading using the Advanced Mode, and Select Install From Steam.
 			<ReleaseNotes>http://7daystodie.com/alpha-12-5-is-out/</ReleaseNotes>
 			<Downloads>
 			</Downloads>
-		</Server>				
-
+		</Server>
+		
+		
+		
+		
+		
 		<Server Name="Alpha 11.6" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
 Installs a vanilla version of the Fun Pimp's 7 Days to Die for Alpha 11.6
-
 Downloading using the Advanced Mode, and Select Install From Steam.	  
 			</Description>
 			<RSS/>
@@ -156,11 +175,13 @@ Downloading using the Advanced Mode, and Select Install From Steam.
 			</Downloads>
 		</Server>				
 
+		
+		
+		
 
 		<Server Name="Alpha 10.4" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
 Installs a vanilla version of the Fun Pimp's 7 Days to Die for Alpha 10.4
-
 Downloading using the Advanced Mode, and Select Install From Steam.	  
 			</Description>
 			<RSS/>
@@ -170,11 +191,13 @@ Downloading using the Advanced Mode, and Select Install From Steam.
 			</Downloads>
 		</Server>				
 
+		
+		
+		
 
 		<Server Name="latest_experimental" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
 Installs a vanilla version of the Fun Pimp's 7 Days to Die for latest_experimental branch
-
 Downloading using the Advanced Mode, and Select Install From Steam.	  
 			</Description>
 			<RSS/>
@@ -184,12 +207,13 @@ Downloading using the Advanced Mode, and Select Install From Steam.
 			</Downloads>
 		</Server>				
 
+		
+		
+		
 		<Server Name="latest_experimental_u52" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
 Installs a vanilla version of the Fun Pimp's 7 Days to Die for latest experimental build using Unity 5.2
-
 This is based off of Unity 5.2
-
 Downloading using the Advanced Mode, and Select Install From Steam.	  
 			</Description>
 			<RSS/>
@@ -197,11 +221,16 @@ Downloading using the Advanced Mode, and Select Install From Steam.
 			<ReleaseNotes/>
 			<Downloads>
 			</Downloads>
-		</Server>				
+		</Server>
+		
+		
+		
+		
+		
+		
 		<Server Name="stable_u52" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
 Installs a vanilla version of the Fun Pimp's 7 Days to Die for stable version using Unity 5.2
-
 Downloading using the Advanced Mode, and Select Install From Steam.	  
 			</Description>
 			<RSS/>
