@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="Darkness Falls" Logo="" Description="">
+		<Server Name="Darkness Falls Alpha 18" Logo="">
+			<Description>
+				TESTING .. NOT WORKING YET
+				
+ This is a mod I originally created to fix a few "issues" myself, my wife and some friends felt the game had. Turns out I really enjoy modding so I've expanded on it quite a bit. The intent is to drag out the early game, so it will take you longer than usual to get to Iron and Steel. I've also tried to inject a little realism by locking away quite a few recipes behind perks, since most normal folks wouldn't know how to do/make those things.
+Also, I started playing in Alpha 8, so I wanted to try and bring back a few things from that era. Hub city, sharp rocks and sticks are pretty good examples, and I want to try and incorporate more features from that era of gameplay. I will also be trying to add in new zombies/enemies to make the "end game" more difficult.
+			</Description>
+			<Version>alpha18.4</Version>
+			<ReleaseNotes>https://community.7daystodie.com/topic/4941-darkness-falls-they-mostly-come-out-at-night/</ReleaseNotes>
+			<Downloads>
+				<Download>https://gitlab.com/KhaineGB/dfexperimentala18client/-/archive/master/dfexperimentala18client-master.zip</Download>
+			</Downloads>
+		</Server>
+
+		
+	</ServerGroup>
+</Servers>
+
+
