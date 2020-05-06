@@ -195,7 +195,7 @@ Downloading using the Advanced Mode, and Select Install From Steam.
 		
 		
 
-		<Server Name="latest_experimental" Logo="" >
+		<Server Name="Latest Experimental" Logo="" >
 			<Description>The Fun Pimps' 7 Days to Die
 Installs a vanilla version of the Fun Pimp's 7 Days to Die for latest_experimental branch
 Downloading using the Advanced Mode, and Select Install From Steam.	  
@@ -210,34 +210,6 @@ Downloading using the Advanced Mode, and Select Install From Steam.
 		
 		
 		
-		<Server Name="latest_experimental_u52" Logo="" >
-			<Description>The Fun Pimps' 7 Days to Die
-Installs a vanilla version of the Fun Pimp's 7 Days to Die for latest experimental build using Unity 5.2
-This is based off of Unity 5.2
-Downloading using the Advanced Mode, and Select Install From Steam.	  
-			</Description>
-			<RSS/>
-			<Version>latest_experimental_u52</Version>
-			<ReleaseNotes/>
-			<Downloads>
-			</Downloads>
-		</Server>
-		
-		
-		
-		
-		
-		
-		<Server Name="stable_u52" Logo="" >
-			<Description>The Fun Pimps' 7 Days to Die
-Installs a vanilla version of the Fun Pimp's 7 Days to Die for stable version using Unity 5.2
-Downloading using the Advanced Mode, and Select Install From Steam.	  
-			</Description>
-			<RSS/>
-			<Version>stable_u52</Version>
-			<ReleaseNotes/>
-			<Downloads>
-			</Downloads>
-		</Server>						
+			
 	</ServerGroup>
 </Servers>
