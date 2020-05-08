@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--this is a test-->
+<Servers>
+	<ServerGroup Name="Ravenhearst" Logo="" Description="">
+		<Server Name="Ravenhearst 6.4.3 a18" Logo="">
+			<Description>
+				
+Ravenhearst began as a mod masterminded by JaxTeller718
+for his Dawn of the New Apocalypse server community in early
+alpha 16, and went public for the first time November 2017
+			</Description>
+			<DownloadMode>Clone</DownloadMode>
+			<Version>alpha18.4</Version>
+			<ReleaseNotes>https://ravenhearst.enjin.com/</ReleaseNotes>
+			<Downloads>
+				<Download>https://gitlab.com/jaxteller718/ravenhearst_6_4_client_files.git</Download>
+			</Downloads>
+		</Server>
+<!--this is a test-->
+		
+	</ServerGroup>
+</Servers>
+
+
