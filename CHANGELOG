@@ -1,4 +1,4 @@
-* Thu May 17 2020 Gandor <shannon@inflecto.org> 0.0.42a
+* Wed May 27 2020 Gandor <gandor71@gmail.com> 0.0.42a
 - Cleaned up a lot of old code
 - Added a new ListBox to the UI 
 - Split xml files into different directories 
@@ -6,18 +6,26 @@
 - You can now set a game name durring an install 
 - If game name is not set it will default to the mod name
 - Changed text "Installed Mods" to "Installed Games"
+- Renamed "Uninstall Mod" Button To "Delete Game"
+- Added View Mods Button
+- Added a listbox to view mods installed in each game
+- Added a Listbox to view installable modlets
+- Moved all config data to one config files
+- Deprecated file mi4l-0.conf 
+- Fixed a bug with forms not expanding to fit all controls
+- Fixed a bug with the tmp directory where it was creating a link loop
 
-* Thu May 14 2020 Gandor <shannon@inflecto.org> 0.0.41a
+* Thu May 14 2020 Gandor <gandor71@gmail.com> 0.0.41a
 - Added a new popup menu when install mod in button clicked
 - Added code to support proton only mods
 - More bug fixes
 
-* Thu May 07 2020 Gandor <shannon@inflecto.org> 0.0.40a
+* Thu May 07 2020 Gandor <gandor71@gmail.com> 0.0.40a
 - updated code to work with 7d2d a18
 - lots of bug fixes
 - There is still a lot to do but it works !!!!
 
-* Sat May 2 2020 Gandor <shannon@inflecto.org> 0.0.40a
+* Sat May 2 2020 Gandor <gandor71@gmail.com> 0.0.40a
 - Added Cancel Button to settings menu
 - Updated 7dtd alpha downloads in repo
 - Lost source code for v0.0.38a and v0.0.39a
@@ -25,24 +33,24 @@
 - still need to add logs back in
 - Checks if Steam is running if not launches Steam to try
 
-* Fri Apr 20 2018 Gandor <shannon@inflecto.org> 0.0.37a
+* Fri Apr 20 2018 Gandor <gandor71@gmail.com> 0.0.37a
 - Added a dialog box allowing users to save alphas to cache or not
 
-* Fri Apr 20 2018 Gandor <shannon@inflecto.org> 0.0.36a
+* Fri Apr 20 2018 Gandor <gandor71@gmail.com> 0.0.36a
 - Fix a bug where steamcmd wasn't being executed on some systems
 - Fixed a bug where mi4l seemed to lockup if alpha install failed
 
-* Thu Apr 19 2018 Gandor <shannon@inflecto.org> 0.0.35a
+* Thu Apr 19 2018 Gandor <gandor71@gmail.com> 0.0.35a
 - Added gambas3-gb-xml dependency
 
-* Wed Apr 18 2018 Gandor <shannon@inflecto.org> 0.0.34a
+* Wed Apr 18 2018 Gandor <gandor71@gmail.com> 0.0.34a
 - removed steam dependency
 
-* Wed Apr 18 2018 Gandor <shannon@inflecto.org> 0.0.34a
+* Wed Apr 18 2018 Gandor <gandor71@gmail.com> 0.0.34a
 - Added a dialog for steamcmd update needed
 - Fixed a bug where mi4l seemed to lockup if alpha install failed
 
-* Tue Apr 17 2018 Gandor <shannon@inflecto.org> 0.0.33a
+* Tue Apr 17 2018 Gandor <gandor71@gmail.com> 0.0.33a
 - Git added as new dependency
 - Adding a check box (Show Game Launcher)
 - Can now install old 7dtd Alphas via SteamCMD
@@ -52,67 +60,67 @@
 - Fixed a bug in the way the ListBoxes displayed data
 - Temporary work around for Font DPI larger than 96
 
-* Wed Apr 11 2018 Gandor <shannon@inflecto.org> 0.0.32a
+* Wed Apr 11 2018 Gandor <gandor71@gmail.com> 0.0.32a
 - Set all control positions on main form
 
-* Tue Apr 10 2018 Gandor <shannon@inflecto.org> 0.0.31a
+* Tue Apr 10 2018 Gandor <gandor71@gmail.com> 0.0.31a
 - More UI Hi Resolution Fixes
 
-* Tue Apr 10 2018 Gandor <shannon@inflecto.org> 0.0.30a
+* Tue Apr 10 2018 Gandor <gandor71@gmail.com> 0.0.30a
 - Fix Hi Resolution UI error
 
-* Tue Apr 10 2018 Gandor <shannon@inflecto.org> 0.0.29a
+* Tue Apr 10 2018 Gandor <gandor71@gmail.com> 0.0.29a
 - Fixed a bug where some mods weren't being installed correcty
 
-* Mon Apr 09 2018 Gandor <shannon@inflecto.org> 0.0.28a
+* Mon Apr 09 2018 Gandor <gandor71@gmail.com> 0.0.28a
 - Some UI Tweeks
 - Added more output during mod install
 
-* Mon Apr 09 2018 Gandor <shannon@inflecto.org> 0.0.27a
+* Mon Apr 09 2018 Gandor <gandor71@gmail.com> 0.0.27a
 - UI improvements
 - First xml compliant release
 - Fix display discription text area
 - started work on xml editor
 
-* Tue Mar 20 2018 Gandor <shannon@inflecto.org> 0.0.26a
+* Tue Mar 20 2018 Gandor <gandor71@gmail.com> 0.0.26a
 - Added gambas3-gb-form-stock Dependency to package
 
-- Sun Mar 18 2018 Gandor <shannon@inflecto.org> 0.0.25a
+- Sun Mar 18 2018 Gandor <gandor71@gmail.com> 0.0.25a
 - Fixed a bug where mod discription was disappearing
 - Exmace Added New icon
 
-* Sat Mar 17 2018 Gandor <shannon@inflecto.org> 0.0.24a
+* Sat Mar 17 2018 Gandor <gandor71@gmail.com> 0.0.24a
 - Exmace Added New Graphics
 - Some UI Tweeks
 - First Public Alpha Release
 
-* Fri Mar 16 2018 Gandor <shannon@inflecto.org> 0.0.23a
+* Fri Mar 16 2018 Gandor <gandor71@gmail.com> 0.0.23a
 - Renamed some Data Files
 - Added ttf-ms-fonts as dependency
 - Ui Fixes
 - Added update data on load
 - Added background process to handle mod downloads and install
 
-* Mon Mar 12 2018 Gandor <shannon@inflecto.org> 0.0.22a
+* Mon Mar 12 2018 Gandor <gandor71@gmail.com> 0.0.22a
 - Changed favorites to installed mods
 - Fixed an issue where mod was being coppied to base directory instead of mod directory
 - More Ui Fixes
 
-* Mon Mar 12 2018 Gandor <shannon@inflecto.org> 0.0.21a
+* Mon Mar 12 2018 Gandor <gandor71@gmail.com> 0.0.21a
 - Fix Bug Creating tmp dir
 
-* Sun Mar 11 2018 Gandor <shannon@inflecto.org> 0.0.20a
+* Sun Mar 11 2018 Gandor <gandor71@gmail.com> 0.0.20a
 - Added Favorites
 - Added Uninstall Mod
 - Ui Fixes
 - Added Search
 
-* Fri Mar 09 2018 Gandor <shannon@inflecto.org> 0.0.19a
+* Fri Mar 09 2018 Gandor <gandor71@gmail.com> 0.0.19a
 - Added The Menu
 
-* Fri Mar 09 2018 Gandor <shannon@inflecto.org> 0.0.18a
+* Fri Mar 09 2018 Gandor <gandor71@gmail.com> 0.0.18a
 - Ui improvements
 - Bug Fixes
 
-* Thu Mar 08 2018 Gandor <shannon@inflecto.org> 0.0.17a
+* Thu Mar 08 2018 Gandor <gandor71@gmail.com> 0.0.17a
 - Initial release
