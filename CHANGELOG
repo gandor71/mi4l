@@ -1,3 +1,11 @@
+* Fri May 29 2020 Gandor <gandor71@gmail.com> 0.0.43
+- Fixed a bug here a Mods folder was being created in the games folder
+- Fixed a bug where custom named games wouldn't launching
+- Cleaned up the UI abit
+- Added an Open game folder Button
+- Changed label for "Installed Mods"  to "Installed Modlets"
+- Deleted any code dealing with editing mods for now
+
 * Wed May 27 2020 Gandor <gandor71@gmail.com> 0.0.42a
 - Cleaned up a lot of old code
 - Added a new ListBox to the UI 
