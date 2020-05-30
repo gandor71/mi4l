@@ -1,3 +1,8 @@
+* Sat May 30 2020 Gandor <gandor71@gmail.com> 0.0.44a
+- Fixed a bug that broke new installs in  0.0.43a
+- Added a dropbox for Available Modlet subfolders
+- User can now add and delete Modlet subfolders in the UI
+
 * Fri May 29 2020 Gandor <gandor71@gmail.com> 0.0.43a
 - Fixed a bug here a Mods folder was being created in the games folder
 - Fixed a bug where custom named games wouldn't launching
