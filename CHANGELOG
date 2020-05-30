@@ -1,3 +1,6 @@
+* Sat May 30 2020 Gandor <gandor71@gmail.com> 0.0.45a
+- Fixed a bug in the Available Modlest dropdown that caused the UI to crash
+
 * Sat May 30 2020 Gandor <gandor71@gmail.com> 0.0.44a
 - Fixed a bug that broke new installs in  0.0.43a
 - Added a dropbox for Available Modlet subfolders
