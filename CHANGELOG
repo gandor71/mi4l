@@ -1,3 +1,10 @@
+* Sat May 30 2020 Gandor <gandor71@gmail.com> 0.0.46a
+- Clicking on the Installed Modlets label now opens the current selected custom games Mods folder
+- Clicking on the Available Modlets label now opens the current selected users modlet folder
+- Added a new button "Edit Discription"
+- User can now create and save a discription for a custom game
+- Fixed a bug in the Available Modlest dropdown that caused the UI to crash
+
 * Sat May 30 2020 Gandor <gandor71@gmail.com> 0.0.45a
 - Fixed a bug in the Available Modlest dropdown that caused the UI to crash
 
