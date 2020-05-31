@@ -1,3 +1,9 @@
+* Sun May 31 2020 Gandor <gandor71@gmail.com> 0.0.47a
+- Cleaned up form for Steam Login
+- Added form for add delete modlet folders
+- Cleaned up form for game installation conformation form
+- Fixed yet another bug in the Available Modlest dropdown that caused the UI to crash
+
 * Sat May 30 2020 Gandor <gandor71@gmail.com> 0.0.46a
 - Clicking on the Installed Modlets label now opens the current selected custom games Mods folder
 - Clicking on the Available Modlets label now opens the current selected users modlet folder
